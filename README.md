@@ -1,6 +1,6 @@
 # npmdoc-deployd
 
-#### api documentation for  [deployd (v0.8.9)](https://github.com/deployd/deployd#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-deployd.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-deployd) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-deployd.svg)](https://travis-ci.org/npmdoc/node-npmdoc-deployd)
+#### basic api documentation for  [deployd (v0.8.9)](https://github.com/deployd/deployd#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-deployd.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-deployd) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-deployd.svg)](https://travis-ci.org/npmdoc/node-npmdoc-deployd)
 
 #### the simplest way to build realtime APIs for web and mobile apps
 
